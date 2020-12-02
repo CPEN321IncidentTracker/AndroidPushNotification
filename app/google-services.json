@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760013290433",
+    "firebase_url": "https://cpen321incidenttracker-1fb1c.firebaseio.com",
+    "project_id": "cpen321incidenttracker-1fb1c",
+    "storage_bucket": "cpen321incidenttracker-1fb1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760013290433:android:07c48876cf24bb656d4d40",
+        "android_client_info": {
+          "package_name": "com.example.locationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760013290433-fj4ugir5v9a661h0uq3jc51dffffoubk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rl4gcfAf7BAomuQ4-Ai69w17lL6GCaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760013290433-fj4ugir5v9a661h0uq3jc51dffffoubk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
